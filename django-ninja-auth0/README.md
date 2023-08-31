@@ -1,1 +1,0 @@
-# django-ninja-auth0
